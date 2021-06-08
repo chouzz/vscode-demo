@@ -2,9 +2,13 @@
   "name": "vscode-demo",
 	"displayName": "vscode-demo",
 	"description": "demo",
+	"publisher": "chouzz",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.56.0"
+	},
+	"repository": {
+		"url": "https://github.com/chouzz/vscode-demo"
 	},
 	"categories": [
 		"Other"
