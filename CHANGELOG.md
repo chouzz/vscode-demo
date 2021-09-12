@@ -1,9 +1,6 @@
-# Change Log
+# Changelog
+All notable changes to this project will be documented in this file.
 
-All notable changes to the "vscode-demo" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
+## [0.0.1] - 2021-09-12
+### Added
 - Initial release
